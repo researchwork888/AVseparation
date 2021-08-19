@@ -9,10 +9,10 @@ Experiment summary:-
 **Ablation**: The measurements, tracking and separation are performed using the audio data only.
 
 Folder description:-
-**Supplementary Materials**: Includes clean source signals from Scenario A and B and the folders below.\
-**Ablation(audio-only)**: Includes the mixture signals and estimated source signals (in .wav format) from Scenario A and Scenario B.\ 
-**Audio-Visual_combined**: Includes the mixture and estimated source signals (in .mp4 format) from Scenario A and Scenario B.\
 
+**Supplementary Materials**: Includes clean source signals from Scenario A and B and the folders below.\
+**Ablation(audio-only)**: Includes the mixture signals and estimated source signals (in .wav format) from Scenario A and Scenario B.\
+**Audio-Visual_combined**: Includes the mixture and estimated source signals (in .mp4 format) from Scenario A and Scenario B.
 
 
 
