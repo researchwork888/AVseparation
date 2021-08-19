@@ -4,7 +4,7 @@ The above files are supplementary materials to the paper "Audio-Visual Based Onl
 
 Experiment summary:- 
 
-**Scenario A**: The human speakers are situated closer to the audio-visual sensors.\ 
+**Scenario A**: The human speakers are situated closer to the audio-visual sensors.\
 **Scenario B**: The human speakers are situated farther away from the audio-visual sensors.\
 **Ablation**: The measurements, tracking and separation are performed using the audio data only.
 
