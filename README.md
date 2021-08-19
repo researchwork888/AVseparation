@@ -12,7 +12,6 @@ Folder description:-
 
 **Supplementary Materials**: Includes clean source signals from Scenario A and B and the folders below.\
 **Ablation(audio-only)**: Includes the mixture signals and estimated source signals (in .wav format) from Scenario A and Scenario B.\
-**Audio-Visual_combined**: Includes the mixture and estimated source signals (in .mp4 format) from Scenario A and Scenario B.
-
+**Audio-Visual_combined**: Includes videos of the mixture and estimated source signals (in .mp4 format) from Scenario A and Scenario B. The videos also contain the estimates from the MS-GLMB tracker that are projected onto the images, where the colour of the bounding box is used to denote the label.  
 
 
