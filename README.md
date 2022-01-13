@@ -4,14 +4,14 @@ The above files are supplementary materials to the paper "Audio-Visual Based Onl
 
 Experiment summary:- 
 
-**Scenario 1x** are near-field examples. \\
+**Scenario 1x** are near-field examples. 
 **Scenario 2** is a far-field example.
 
 **Scenario 1A**: Speakers are talking and walking simultaneously toward the audio-visual sensors. \
 **Scenario 1B**: Scenario with time-varying number of moving speakers. \
 **Scenario 1C**: Scenario with loud background noise. \
 **Scenario 2**: Speakers are talking and walking simultaneously toward the audio-visual sensors. \
-**Ablation**: The measurements, tracking and separation are performed using the audio data only. \
+**Ablation**: The measurements, tracking and separation are performed using the audio data only. 
 
 
 Folder description:-
